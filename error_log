@@ -1,0 +1,3 @@
+[31-Oct-2019 11:48:54 Asia/Dhaka] PHP Fatal error:  Cannot use object of type stdClass as array in /home/expressre2ailbd/mother.expressretailbd.com/application/controllers/Administrator/Page.php on line 414
+[31-Oct-2019 11:49:08 Asia/Dhaka] PHP Fatal error:  Cannot use object of type stdClass as array in /home/expressre2ailbd/mother.expressretailbd.com/application/controllers/Administrator/Page.php on line 414
+[31-Oct-2019 11:49:37 Asia/Dhaka] PHP Fatal error:  Cannot use object of type stdClass as array in /home/expressre2ailbd/mother.expressretailbd.com/application/controllers/Administrator/Page.php on line 414
